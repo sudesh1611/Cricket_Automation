@@ -3,6 +3,6 @@
 
 Before running for the first time, you might need to tweak some coordinates acccording to your screen resolution. To get the coordinates, you can use **GetCoordinatesAndColor.py** file. It takes image file name as input and gives coordinates of a particular pixel when mouse is double clickedon that image. To automate, first execute **CricketAutomation.py** locally and then go to the website [Doodle Criket](https://doodlecricket.github.io/#/ "Doodle Criket's Homepage"). 
 
-![](http://i.imgur.com/OUkLi.gif)
+![](Demo.gif)
 
 Credits to [Harsh Gupta](https://github.com/Harsh1347) for his T Rex Game automation.
